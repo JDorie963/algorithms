@@ -26,7 +26,7 @@ Follow these steps to set up the project:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JDorie963/algorithms.git
    ```
 2. Navigate to the project directory:
    ```bash
